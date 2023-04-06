@@ -1,0 +1,9 @@
+.rating{
+    border: 1px solid red;
+    border-radius: 8px;
+    background:whitesmoke;
+    color: red;
+    padding: 5px;
+    float: right;
+    margin-top: -100px;
+}

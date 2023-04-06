@@ -1,0 +1,43 @@
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.img{
+    margin-top:-100px;
+    width: 80px;
+    height: 60px;
+    padding-bottom: 10px;
+
+}
+.group{
+    
+padding: 5px;
+}
+.group:hover{
+    margin: 0px;
+    border: 3px solid gray;
+    box-shadow: inset;
+}
+.info{
+    text-align: center;
+    width: 900px;
+}
+
+
+.btn{
+    float: right;
+    margin-right: -90px;
+    margin-top: 0px;
+}
+.recommend{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: start;
+    display: block;
+    display: flex;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
